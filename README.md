@@ -9,6 +9,13 @@ We use the data from PetFinder.my, a Malaysia’s leading animal welfare, to pre
 - [Models](https://drive.google.com/drive/folders/1Fb_RlaEd44mLGa0yHcEJQfWPlfQsOKw-?fbclid=IwAR1jHRoq3x89sPcI_VVg92fHspn03Jtpy9_ydMqT535i9IU3Q2GlWqMCvlk)
 
 ## Kaggle Competition
+In this competition, we are going to build the model to predict the indusy(行業) and job occupation(職業).
+- Leaderboard:
+  - public socre: (9/20)
+  - private score: (8/20)
+- [More information](https://www.kaggle.com/c/2019sl)
+- [code](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/Kaggle-competition/Final.ipynb)
+
 
 ## HW1: KNN model
 We are going to use a subset of the "Million Songs Dataset" in this question. The dataset has been pre-processed and the training and testing dataset has been splitted and stored in a dictionary data structure. You can load the data from msd_data1.pickle using pickle.load(). There are four elements in the dictionary: X_train, Y_train, X_test, Y_test. As indicated by their names, these four elements are training and testing data. The outcome variable (i.e.  y ) is the year a song was released, and the features are variables that characterize the sound of a song. The goal is to predict the release year given sound features.
