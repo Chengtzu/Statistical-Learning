@@ -3,7 +3,7 @@
 - Course Info: [syllabus](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/syllabus%202019%20v1.pdf)
 
 ## Final Project: Pet Finder
-We use the data from PetFinder.my, a Malaysia’s leading animal welfare, to predict the adoptability of pets - specifically, how quickly is a pet adopted? Our goal is to build a predictive model to help shelters and rescuers around the world on improving their pet profiles' appeal, reducing animal suffering and euthanization.
+We use the data from PetFinder.my, a Malaysia’s leading animal welfare, to predict the adoptability of pets. Our goal is to build a predictive model to help shelters and rescuers around the world on improving their pet profiles' appeal, reducing animal suffering and euthanization. According to the result, Random Forest method has the best performance.
 - [Presentation](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/Final-project/project_petfinder.pdf)
 - [Exploratory data analysis](https://drive.google.com/drive/folders/15fOS1TACWvyGVULFeincHjdgY81oh7e-?fbclid=IwAR1jHRoq3x89sPcI_VVg92fHspn03Jtpy9_ydMqT535i9IU3Q2GlWqMCvlk)
 - [Models](https://drive.google.com/drive/folders/1Fb_RlaEd44mLGa0yHcEJQfWPlfQsOKw-?fbclid=IwAR1jHRoq3x89sPcI_VVg92fHspn03Jtpy9_ydMqT535i9IU3Q2GlWqMCvlk)
