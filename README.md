@@ -10,7 +10,7 @@ We use the data from PetFinder.my, a Malaysia’s leading animal welfare, to pre
 
 ## Kaggle Competition
 In this competition, we are going to build the model to predict the indusy(行業) and job occupation(職業).
-- Leaderboard:
+- Leaderboard(Team: 老師笑話好笑喔):
   - public socre: (9/20)
   - private score: (8/20)
 - [More information](https://www.kaggle.com/c/2019sl)
