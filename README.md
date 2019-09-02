@@ -20,7 +20,7 @@ We are going to explore the problem of identifying smartphone position through p
 - [HW3-1](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/HW3/assignment3-1.ipynb) 
 
 ### Logistic Regression with L2 Regularization
-We are going to use to "Adult" dataset on the UCI machine learning reposition https://archive.ics.uci.edu/ml/datasets/Adult. The goal is to predict the label values of the income column, which can be either '>50K' or '<=50K.' The dataset had splitted the training and test data, and we are going to respect this particular train-test split in model testing.
+We are going to use to "Adult" dataset on the UCI machine learning reposition. The goal is to predict the label values of the income column, which can be either '>50K' or '<=50K.' The dataset had splitted the training and test data, and we are going to respect this particular train-test split in model testing.
 - [HW3-2](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/HW3/assignment3-2.ipynb)
 
 ## HW4: Data Visualization via Dimensionality Reduction
@@ -28,6 +28,6 @@ We are going to visualize this competition relationships using the University De
 A large portion of high school students get admitted to universities through an application and screening process that require each university department of offer admission to applicants first before students can choose where they wants to go. If we think of applicants as the customers of an academic department, then the duplications of offered applicants for different departments can be used to understand the competition relationships between academic departments. 
 - [HW4](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/HW4/assignment_4.ipynb)
 
-## HW5: 
-
-
+## HW5: Time Series Predction
+Time series prediction problem has a wide range of applications. We are going to explore this issue in this homework. To keep things simple, we are going to focus on the univariate time series, a time series with a single value in a period. The dataset contains 104 weeks of training data and 39 weeks of test data. The time series is the product sales of a supermarket in a particular period. The goal is to predict sales in the test period. 
+- [HW5](https://github.com/tzuhsuancheng/Statistical-Learning/blob/master/HW5/hw5_qv1.ipynb)
